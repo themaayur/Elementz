@@ -1,5 +1,10 @@
-# Elementz
 
-Elementz - Digital element directory !
+# Elementz-Digital Element Directory !
 
-### A MIT AI2 Appathon 2021 project.
+An app where students will every information about elements of the periodic table. The comes with a simple and minimal UI that is easy to use and understanding works fully offline.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
